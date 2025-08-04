@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+log_classifier.pkl
+sample_logs/
+*.log
+*.txt
+
+.streamlit/
+.DS_Store

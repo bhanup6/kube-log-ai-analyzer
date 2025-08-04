@@ -1,0 +1,13 @@
+log,severity
+"nginx started successfully",info
+"service started successfully",info
+"fetching user data",info
+"retrying request to backend",warning
+"connection timeout",error
+"connection refused on port 443",error
+"disk quota exceeded",error
+"high memory usage detected",warning
+"worker thread crashed",error
+"cleanup completed successfully",info
+"retrying API call",warning
+
