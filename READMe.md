@@ -115,7 +115,7 @@ http://localhost:8501
 ### ✅ Quick Start (All in One)
 
 ```bash
-git clone https://github.com/<your-username>/kube-log-ai-analyzer.git
+git clone https://github.com/bhanup6/kube-log-ai-analyzer.git
 cd kube-log-ai-analyzer
 python3 -m venv venv
 source venv/bin/activate
